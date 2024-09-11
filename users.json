@@ -1,0 +1,37 @@
+[
+    {
+        "id": 7,
+        "name": "Kurtis Weissnat",
+        "username": "Elwyn.Skiles",
+        "email": "Telly.Hoeger@billy.biz",
+        "phone": "210.067.6132",
+        "website": "elvis.io"
+    },
+    {
+        "id": 8,
+        "name": "Nicholas Runolfsdottir V",
+        "username": "Maxime_Nienow",
+        "email": "Sherwood@rosamond.me",
+        "phone": "586.493.6943 x140",
+        "website": "jacynthe.com"
+    },
+    {
+        "id": 1879571,
+        "name": "John Doe",
+        "username": "john22",
+        "email": "",
+        "phone": "12345",
+        "website": "",
+        "extension": "jpg"
+    },
+    {
+        "id": 4,
+        "name": "Chicken Magood",
+        "username": "Chicken_Magood",
+        "email": "Chicken69Magood@gmail.com",
+        "phone": "12121212121",
+        "website": "youtube.com",
+        "picture_extension": "png",
+        "cv_extension": "pptx"
+    }
+]
